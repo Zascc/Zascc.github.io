@@ -17,7 +17,7 @@ author_profile: true
 
 - **CoArgue: Fostering Lurkers’ Contribution to Collective Arguments in Community-based QA Platforms.**\
 Chengzhong Liu, **Shixu Zhou**, Dingdong Liu, Junze Li, Zeyu Huang, Xiaojuan Ma.\
-CHI 2023. [PDF](#), [CODE](https://github.com/Zascc/CoArgue-CHI2023)
+CHI 2023. [PDF](https://dl.acm.org/doi/abs/10.1145/3544548.3580932), [CODE](https://github.com/Zascc/CoArgue-CHI2023)
 
 - **Exploring the Effects of Self-Mockery to Improve Task-Oriented Chatbot’s Social Intelligence.** \
 Chengzhong Liu, **Shixu Zhou**, Yuanhao Zhang, Dingdong Liu, Zhenhui Peng, Xiaojuan Ma.\
