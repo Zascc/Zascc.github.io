@@ -10,16 +10,19 @@ redirect_from:
 ---
 About me
 ======
-Hi, I am Shixu ZHOU, a first-year MPhil Student in Computational Media and Arts in the [Guangzhou campus](https://hkust-gz.edu.cn/) of Hong Kong University of Science and Technology (HKUST), supervised by Professor [Mingming FAN](https://www.mingmingfan.com/). I got my bachelor degree in Mathematics from the same institution at the [Hong Kong campus](https://hkust.edu.hk/).
+Hi, I am Shixu ZHOU, a PhD Student in Computer Science and Engineering Department in the Hong Kong University of Science and Technology (HKUST), supervised by Professor [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/).
 
 Research Interest
 -------
-Human computer interaction, Intelligent conversational agents, Interactive information digestion systems, User interface design, Human-AI collaboration.
+Human computer interaction, Intelligent conversational agents, Human-AI collaboration, AI for education.
 
 Education Experience
 -------
+**The Hong Kong University of Science and Technology (HKUST), Hong Kong, China**
+- Doctor of Philosophy in Computer Science and Engineering, Sept 2024 - Now
+
 **The Hong Kong University of Science and Technology Guangzhou (HKUSTGZ), Guangzhou, China**
-- Master of Philosophy in Computational Media and Arts, Sept 2022 - Jul 2024 (expected)
+- Master of Philosophy in Computational Media and Arts, Sept 2022 - Jul 2024
 
 **The Hong Kong University of Science and Technology (HKUST), Hong Kong, China**
 - Bachelor in Mathematics, Sept 2018 - Jul 2022

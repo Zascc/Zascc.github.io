@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shixu ZHOU"
   avatar           : "profile.png"
-  bio              : "MPhil student in HKUST(GZ)"
-  location         : "Guangzhou, China"
+  bio              : "PhD student in HKUST"
+  location         : "Hong Kong, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=BhOVkHgAAAAJ&hl=en&oi=ao"
-  email            :  'szhou768@connect.hkust-gz.edu.cn'
+  email            :  'szhouav@connect.ust.hk'
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   github           : "Zascc"
   google_plus      :
   keybase          :
-  instagram        :  'zasc_zhou'
+  instagram        :  
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
